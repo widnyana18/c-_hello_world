@@ -1,0 +1,14 @@
+		Wellcome in our life
+We are The Newgress Coding Comunity
+berikut adalah anggota newgress coding: 
+
+_____________________
+| No.|     Nama     |
+|____|______________|
+| 1. |  Dode		|
+| 2. |  Widnyana    |
+| 3. |  Dekwid      |
+| 4. |  Amasona     |
+| 5. |  Yogik       |
+| 6. |  Putra Jaya  |
+|____|______________|
